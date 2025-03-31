@@ -1,10 +1,12 @@
 # riscoNext
-1️⃣ Interfaz de usuario: Un formulario donde el usuario ingrese el mínimo de calorías y el peso máximo.
-2️⃣ Lógica de optimización: Implementar el algoritmo de mochila dinámica para seleccionar los mejores elementos.
-3️⃣ Visualización: Mostrar los elementos seleccionados y su peso/calorías totales.
+1 Interfaz de usuario: Un formulario donde el usuario ingrese el mínimo de calorías y el peso máximo.
+
+2 Lógica de optimización: Implementar el algoritmo de mochila dinámica para seleccionar los mejores elementos.
+
+3 Visualización: Mostrar los elementos seleccionados y su peso/calorías totales.
+
 
 Esta app es similar a la Mochila 0/1 (Knapsack Problem), donde debemos seleccionar elementos que maximicen las calorías sin exceder el peso máximo permitido.
-
 
 Plan de Desarrollo
  Frontend: .
